@@ -44,10 +44,10 @@ Academic resources and code use for the study of algorithms such:
  * [Interviewbit](https://www.interviewbit.com)
  * [Hacker Rank](https://www.hackerrank.com)
  
-## [Books](https://www.dropbox.com/sh/peodrtlzkpu12pl/AACekqwKX92E_36Pa48JUaQAa?dl=0)
+ ## [Books](https://www.dropbox.com/sh/peodrtlzkpu12pl/AACekqwKX92E_36Pa48JUaQAa?dl=0)
 
-* Introduction to Algoritms MIT
-* Algorithms Sedgewick, Wayne
-* Hakcers Delight
+ * Introduction to Algoritms MIT
+ * Algorithms Sedgewick, Wayne
+ * Hakcers Delight
 
  
