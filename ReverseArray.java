@@ -15,7 +15,7 @@ public class ReverseArray{
     // for even array's length, the array's half humber will be interchanged
     // for odd array's length, the number in the mid of the array will not need it to be interchanged
     // i -> will point to the number to be switched for the
-    // N-1-i will get the number to be switched (the other half array's asimetric or correspondant number, if we split the array in two)
+    // N-1-i will get the number to be switched (the other half array's asimetric or correspondent number, if we split the array in two)
     // temp store the i pointed number and then is asigned to the interchanged position.
     public static int[] reverseArray(arr){
       int N = arr.length;
